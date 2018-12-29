@@ -50,7 +50,7 @@ body {
     line-height: 30px;
     font-size: 18px;
     /*font-family: 'Raleway', sans-serif;*/
-    font-family: 'Noto Sans' , sans-serif;
+    font-family: 'Europa' , sans-serif;
     font-weight: 300;
 }
 
@@ -218,7 +218,7 @@ nav {
 }
 
 nav li a, nav li a:focus {
-	color: #757575;
+	color: #FFFFFF;/*#757575;*/
 	text-transform: uppercase;
 	text-decoration: none;
 }
@@ -240,7 +240,7 @@ footer {
 }
 
 /*h1, h2, h3, h4, h5, h6 {font-family: 'Raleway', sans-serif;}*/
-h1, h2, h3, h4, h5, h6 {font-family: 'Merriweather', serif;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Abel', sans-serif;}
 
 h1 {
     /*color: #fff;*/
@@ -802,11 +802,17 @@ header#sub-page .dropdown-hover {color: #c3c7c9;}
 }
 .testimonials .client-company {
     display: block;
-    color: #b3b7b9;
+    color: #000000;
     line-height: 17px;
     font-size: 15px;
 }
-
+.testimonials .client-supplier {
+    display: block;
+    color: #000000;
+    line-height: 17px;
+    font-size: 15px;
+    font-weight: bold;
+}
 .testimonials .underline {
     display: block;
     margin: 17px auto;
