@@ -46,7 +46,7 @@
 ==================================*/
 
 body {
-    background-color: #efefea;
+    background-color: #F3F2F2;
     line-height: 30px;
     font-size: 18px;
     /*font-family: 'Raleway', sans-serif;*/
@@ -783,9 +783,9 @@ header#sub-page .dropdown-hover {color: #c3c7c9;}
 .testimonials .client {
     display: block;
     margin: 10px auto;
-    -webkit-border-radius: 45px;
+    /*-webkit-border-radius: 45px;
        -moz-border-radius: 45px;
-            border-radius: 45px;
+            border-radius: 45px;*/
 }
 .profile {
 	display:table;
