@@ -102,7 +102,7 @@ body {
 ::-moz-selection {background: #bdddee;}
 
 @media screen and (max-width: 767px) { 
-    body {line-height: 28px; font-size: 16px;}
+    body {line-height: 1.2; font-size: 16px;}
     .boxed {padding: 30px;}
     .boxed .full-width {
         margin-right: -30px;
