@@ -800,11 +800,15 @@ header#sub-page .dropdown-hover {color: #c3c7c9;}
 	-webkit-box-shadow: 0 0 18px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 18px rgba(0, 0, 0, .8);
 }
+.testimonials .client-name{
+    line-height: 17px;
+}
 .testimonials .client-company {
     display: block;
     color: #000000;
     line-height: 17px;
     font-size: 15px;
+    height: 35px;
 }
 .testimonials .client-supplier {
     display: block;
